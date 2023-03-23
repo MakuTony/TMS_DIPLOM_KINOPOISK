@@ -1,0 +1,18 @@
+.avatar {
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: #eb8715;
+    border-radius: 10px;
+    padding: 16px;
+    color: #FFFFFF;
+    font-family: 'Exo 2', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    min-width: 56px;
+    padding-bottom: 10px;
+}
